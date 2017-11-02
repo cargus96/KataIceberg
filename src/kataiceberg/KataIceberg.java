@@ -2,8 +2,8 @@ package kataiceberg;
 
 import Entidad.Iceberg;
 import java.time.LocalDate;
-import kataiceberg.Eventos.PosicionIce;
-import kataiceberg.Eventos.VolumenIce;
+import Eventos.PosicionIce;
+import Eventos.VolumenIce;
 
 public class KataIceberg {
 
