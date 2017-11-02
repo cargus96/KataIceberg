@@ -3,8 +3,8 @@ package Entidad;
 import java.time.LocalDate;
 import java.util.HashMap;
 import java.util.Map;
-import kataiceberg.Eventos.PosicionIce;
-import kataiceberg.Eventos.VolumenIce;
+import Eventos.PosicionIce;
+import Eventos.VolumenIce;
 
 public class Iceberg {
     private final String origen;

@@ -1,4 +1,4 @@
-package kataiceberg.Eventos;
+package Eventos;
 
 import Entidad.Iceberg;
 import java.time.LocalDate;
